@@ -10,4 +10,4 @@ For the past years, the feeling of loneliness has become more important in our s
 The sbot is available in two versions :
 
 - **SBOT_V1** : This is the very first version of our project based on a char-to-char achitecture.
-- **SBOT_V2** : This is the final version of our **story telling bot** !
+- **SBOT_V2** : This is the **final version** of our **story telling bot** !
